@@ -1,4 +1,6 @@
-package org.fridaylunchtalk.kotlin
+package org.fridaylunchtalk.kotlin.dataclass
+
+import org.fridaylunchtalk.kotlin.dataclass.DataClassInJava
 
 /**
  * Created by Ingo on 20.04.2016.

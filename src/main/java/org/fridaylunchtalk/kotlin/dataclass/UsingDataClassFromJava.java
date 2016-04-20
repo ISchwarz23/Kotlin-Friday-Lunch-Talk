@@ -1,4 +1,4 @@
-package org.fridaylunchtalk.kotlin;
+package org.fridaylunchtalk.kotlin.dataclass;
 
 /**
  * Created by Ingo on 19.04.2016.

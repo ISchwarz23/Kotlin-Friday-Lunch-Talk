@@ -1,4 +1,4 @@
-package org.fridaylunchtalk.kotlin;
+package org.fridaylunchtalk.kotlin.dataclass;
 
 /**
  * Example of a data class in java.
