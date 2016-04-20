@@ -1,7 +1,7 @@
 package org.fridaylunchtalk.kotlin.dataclass;
 
 /**
- * Created by Ingo on 19.04.2016.
+ * Example of interoperability with Kotlin from Java.
  */
 public class UsingDataClassFromJava {
 

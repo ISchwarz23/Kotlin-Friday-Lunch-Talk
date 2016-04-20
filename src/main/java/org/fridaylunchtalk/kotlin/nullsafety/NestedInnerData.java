@@ -1,7 +1,7 @@
 package org.fridaylunchtalk.kotlin.nullsafety;
 
 /**
- * Created by Ingo on 20.04.2016.
+ * Example for a nested data class.
  */
 public class NestedInnerData {
 

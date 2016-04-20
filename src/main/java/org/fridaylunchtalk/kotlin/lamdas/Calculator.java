@@ -1,7 +1,7 @@
 package org.fridaylunchtalk.kotlin.lamdas;
 
 /**
- * Created by Ingo on 20.04.2016.
+ * Example class providing a method taking a callback.
  */
 public class Calculator {
 
@@ -14,7 +14,7 @@ public class Calculator {
         callback.onResult(number1 + number2);
     }
 
-    public interface ResultCallback<T> {
+    interface ResultCallback<T> {
         void onResult(T result);
     }
 

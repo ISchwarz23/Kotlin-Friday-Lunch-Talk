@@ -3,7 +3,7 @@ package org.fridaylunchtalk.kotlin.lamdas;
 import org.fridaylunchtalk.kotlin.lamdas.Calculator.ResultCallback;
 
 /**
- * Created by Ingo on 20.04.2016.
+ * Example of (non-existing) lambdas in java 1.6
  */
 public class LambdaInJava {
 

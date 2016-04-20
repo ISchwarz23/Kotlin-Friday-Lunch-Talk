@@ -1,9 +1,7 @@
 package org.fridaylunchtalk.kotlin.dataclass
 
-import org.fridaylunchtalk.kotlin.dataclass.DataClassInJava
-
 /**
- * Created by Ingo on 20.04.2016.
+ * Example of interoperability with Java from Kotlin.
  */
 fun main(args: Array<String>) {
     val dataClassInKotlin = DataClassInKotlin(1, "Kotlin Class")

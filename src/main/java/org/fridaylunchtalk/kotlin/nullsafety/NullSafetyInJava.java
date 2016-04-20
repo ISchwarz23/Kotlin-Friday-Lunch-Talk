@@ -1,7 +1,7 @@
 package org.fridaylunchtalk.kotlin.nullsafety;
 
 /**
- * Created by Ingo on 20.04.2016.
+ * Example of code to prevent null-pointers in Java.
  */
 public class NullSafetyInJava {
 

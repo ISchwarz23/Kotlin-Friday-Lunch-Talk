@@ -1,7 +1,7 @@
 package org.fridaylunchtalk.kotlin.lamdas
 
 /**
- * Created by Ingo on 20.04.2016.
+ * Example of a lambda in Kotlin.
  */
 fun main(args : Array<String>) {
 

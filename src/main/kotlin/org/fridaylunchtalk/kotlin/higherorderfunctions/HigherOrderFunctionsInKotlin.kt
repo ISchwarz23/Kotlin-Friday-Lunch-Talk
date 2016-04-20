@@ -1,7 +1,7 @@
 package org.fridaylunchtalk.kotlin.higherorderfunctions
 
 /**
- * Created by Ingo on 20.04.2016.
+ * Example for a higher order function in Kotlin.
  */
 fun <T, R> List<T>.mapIt(transform: (T) -> R): List<R> {
     val result = arrayListOf<R>();
@@ -12,6 +12,7 @@ fun <T, R> List<T>.mapIt(transform: (T) -> R): List<R> {
 }
 
 fun transformToString(number: Int): String = "$number"
+
 
 
 fun main(args: Array<String>) {
